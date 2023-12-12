@@ -1,0 +1,6 @@
+[submodule "circuiting"]
+	path = circuiting
+	url = https://github.com/Virus-Axel/circuiting
+[submodule "circuitingTest"]
+	path = circuitingTest
+	url = https://github.com/Boyquotes/circuiting
